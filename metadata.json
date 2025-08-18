@@ -1,0 +1,7 @@
+{
+    "name": "Housing Studio",
+    "creator": "Housing Studio Team",
+    "description": "Advanced Hypixel Housing editor",
+    "version": "1.0.1",
+    "entry": "index.js"
+}
